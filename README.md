@@ -87,10 +87,3 @@ Configure and edit schedules
 
 http://<ip address>:8000/cfg-pw2py.html
 
-#mkdir pwlog
-
-Auto start 
-#crontab –e
-@reboot /etc/plugwise.bash
-
-
